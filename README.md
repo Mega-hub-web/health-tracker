@@ -1,4 +1,3 @@
-![State of Health_LOGO](https://github.com/Kennygunderman/state-of-health-tracker/assets/16354865/b6d58f3a-973d-44e0-8ccb-216e3d358eeb)
 
 
 # State of Health Tracking App
